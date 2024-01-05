@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sekhudin</h1>
-<h3 align="center">I am a passionate A programming enthusiast who has a great interest in software engineering.</h3>
+<h3 align="center">I am a passionate programming enthusiast with a great interest in software engineering</h3>
 
 <p align="left"> <a href="https://twitter.com/sekhudin_y" target="blank"><img src="https://img.shields.io/twitter/follow/sekhudin_y?logo=twitter&style=for-the-badge" alt="sekhudin_y" /></a> </p>
 
