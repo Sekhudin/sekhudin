@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Rxjs and Reactive programming**
 
-- 📫 How to reach me **sekhudinpbg3@gmail.com**
+- 📫 How to reach me **sekhudinpbg3@gmail.com** or **sekhudinuap@gmail.com**
 
 - ⚡ Fun fact **I'm a wizard, hush... let's not be too loud.**
 
