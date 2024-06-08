@@ -12,7 +12,7 @@ I love creating creative websites, uncovering hidden treasures, and meeting new 
 <b><p align="center">⚡ Fun fact: I'm a wizard. Shh... let's keep it down a bit.</p></b>
 
 ### 🤝 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sekhudin/) [![Medium](https://img.shields.io/badge/hashnode-12100E?&style=for-the-badge&logo=hashnode&color=violet&logoColor=white)](https://blog.syaikhu.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sekhudin/) [![Medium](https://img.shields.io/badge/hashnode-7C3AED?&style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.syaikhu.com/)
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to <b><a href="mailto:sekhudinpbg3@gmail.com">reach out to me!</a><b/>
 </br>
@@ -29,13 +29,13 @@ I love creating creative websites, uncovering hidden treasures, and meeting new 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-230081CB?style=for-the-badge&logo=express&logoColor=black&color=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/express-6DA55F?style=for-the-badge&logo=express&logoColor=white)
 
 </br>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/tailwindcss-7C3AED?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 </br>
@@ -44,7 +44,7 @@ I love creating creative websites, uncovering hidden treasures, and meeting new 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/swagger-230081CB?style=for-the-badge&logo=swagger&logoColor=white&color=green)
+![Swagger](https://img.shields.io/badge/swagger-6DA55F?style=for-the-badge&logo=swagger&logoColor=white)
 
 
 <br>
