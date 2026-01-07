@@ -5,11 +5,6 @@
 <br>
 
 <h3 align="center">Hi there👋, I'm Sekhudin</h3>
-<h2 align="center">"I am a full-stack developer 💻, who likes photography 📸"</h2>
-
-<p align="center">
-I love creating creative websites, uncovering hidden treasures, and meeting new people. Discovering how people hide things and where others will look always excites me.</p>
-<b><p align="center">⚡ Fun fact: I'm a wizard. Shh... let's keep it down a bit.</p></b>
 
 ### 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sekhudin/) [![Medium](https://img.shields.io/badge/hashnode-7C3AED?&style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.syaikhu.com/)
